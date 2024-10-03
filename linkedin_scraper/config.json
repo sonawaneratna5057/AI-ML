@@ -1,0 +1,10 @@
+{
+    "username": "patil.bhupesh.5057@gmail.com",
+    "password": "aibX3Kb24eQ3Ss+",
+    "connections_file": "linkedin_scraper/connections.csv",
+    "cookies_file": "linkedin_scraper/cookies.pkl",
+    "output_file": "linkedin_scraper/output.xlsx",
+    "log_file": "linkedin_scraper/log.txt",
+    "delay": 5
+  }
+  
